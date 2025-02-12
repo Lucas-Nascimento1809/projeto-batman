@@ -47,7 +47,7 @@ li:hover {
 }
 
 #banner {
-    background-image: url("https://i.redd.it/6092ltrt8nt71.jpg");
+    background-image: url('https://assets.cdn.moviepilot.de/files/af17aca5153745319cdea0f3fb71b755b341cdf2cf7b8fd1471716621553/fill/1200/576/The-Batman-Szene.jpg');
     background-position: 50% 50%;
     background-size: cover;
     width: 100%;
@@ -144,17 +144,18 @@ li:hover {
 }
 
 .banner1 {
-    background-image: url("https://i.redd.it/8h7wb66ofn0a1.jpg");
+    background-image: url("https://preview.redd.it/in-the-batman-2022-i-noticed-that-batmans-belt-is-actually-v0-n1zoiiclh9qd1.jpg?width=1069&format=pjpg&auto=webp&s=9c8581b64d70c3a1e8231be985f7cc0692527a56");
 }
 
 .banner2 {
-    background-image: url("https://i.pinimg.com/236x/cd/6a/5d/cd6a5d731c2e95b08be9e9f36a820ee5.jpg");
+    background-image: url('https://1.bp.blogspot.com/-FLrgkfAeyz8/XwLTynRgfOI/AAAAAAAAuBE/Fl9s8Q5T0QQ7uir0fpNbXAqg9faklLszQCLcBGAsYHQ/s1600/catwomanzoe002.jpg');
 }
 
 .banner3 {
-    background-image: url("https://pm1.aminoapps.com/6432/c229d822b22c538559d47a8a6659180ce8970d3f_hq.jpg");
+    
+background-image: 
+url("https://th.bing.com/th/id/R.2af94bc5db6fe2e59f21f6f2d3d1555b?rik=qcQLEUVr8u6fHg&pid=ImgRaw&r=0");
 }
-
 .card:hover {
     transform: scale(1.02);
 }
