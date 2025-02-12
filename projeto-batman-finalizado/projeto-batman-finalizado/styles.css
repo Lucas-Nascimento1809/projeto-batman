@@ -6,7 +6,6 @@
     list-style: none;
     text-decoration: none;
     font-family: "Kdam Thmor Pro", sans-serif;
-
 }
 
 header {
@@ -33,7 +32,6 @@ li {
     font-size: 19px;
     transition: 0.5s;
     font-family: "Kdam Thmor Pro", sans-serif;
-
 }
 
 li:hover {
@@ -236,6 +234,4 @@ span {
     .cards-content {
         grid-template-columns: 1fr;
     }
-
-
 }
